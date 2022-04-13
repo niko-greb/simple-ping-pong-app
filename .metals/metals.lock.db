@@ -1,0 +1,6 @@
+#FileLock
+#Wed Apr 13 20:14:25 MSK 2022
+hostName=localhost
+id=18023eb4d7210d6bfeb17237652802d25fc38a8a481
+method=file
+server=localhost\:40551

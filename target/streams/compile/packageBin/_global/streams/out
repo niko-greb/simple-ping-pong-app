@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/ping-app_3-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example/ping[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example/ping[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example/ping/PingApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example/ping/PingApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example/ping/PingApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example/ping/PingApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example/ping/PingApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example/ping/PingApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example/ping/PingApi$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example/ping/PingApi$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example/ping/PingApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example/ping/PingApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/example/ping/PingApi.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/org/example/ping/PingApi.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/newbinion/niko-work/scala/ping-app/target/scala-3.0.0/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
